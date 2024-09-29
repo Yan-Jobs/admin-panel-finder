@@ -1,3 +1,3 @@
 # Admin Panel Finder
 
-Credit: (frkndncr)[https://github.com/frkndncr]
+Credit: [Github: frkndncr](https://github.com/frkndncr)

@@ -1,1 +1,3 @@
-# admin-panel-finder
+# Admin Panel Finder
+
+Credit: (frkndncr)[https://github.com/frkndncr]
